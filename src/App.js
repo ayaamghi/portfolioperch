@@ -5,7 +5,7 @@ import Team from "./Components/Team"
 
 function App() {
   return (
-    <div className = "bg-slate-900 fixed inset-0 overflow-y-scroll"> 
+    <div className = "fixed inset-0 overflow-y-scroll"> 
     <div className="grid grid-rows-[auto,1fr,auto] h-screen gap-y-6">
       <div className="row-span-1">
         <Team />

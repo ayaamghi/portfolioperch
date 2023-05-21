@@ -29,7 +29,7 @@ const Port = ({ returnUrls }) => {
       <strong>Award:</strong> {port.getAward()} {port.getPlace()}
     </div>
     <div className="mr-4">
-      <strong>Season:</strong> {port.getSeason()}
+      <strong>Season:</strong> {port.getSeason()+1}
     </div>
     <div className="mr-4">
       <strong>Level:</strong> {port.getLevel()}
