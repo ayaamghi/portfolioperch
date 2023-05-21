@@ -220,6 +220,15 @@ new Portfolio(
     'F.R.O.G Frog Robots of Germany',
     10183
   ),
+  new Portfolio(
+    'https://drive.google.com/file/d/1fiwITpKo_KmZZfB2SmLo-TIDy-YwZy2P/view?usp=drivesdk',
+    2020,
+    'Regionals',
+    'Control',
+    'Rogue Resistance',
+    9527,
+    2
+  ),
 
 ];
 
