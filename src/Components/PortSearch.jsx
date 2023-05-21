@@ -29,7 +29,7 @@ const Port = ({ returnUrls }) => {
       <strong>Award:</strong> {port.getAward()} {port.getPlace()}
     </div>
     <div className="mr-4">
-      <strong>Season:</strong> {port.getSeason()}
+      <strong>Season:</strong> {port.getSeason()+1}
     </div>
     <div className="mr-4">
       <strong>Level:</strong> {port.getLevel()}
@@ -40,7 +40,11 @@ const Port = ({ returnUrls }) => {
       </div>
     );
   } else if(returnUrls.length == 0) {
-    return <p>No Results</p>;
+    return (
+    <div className="ml-9">
+        <p >No Results</p>
+    </div>
+    )
   }
   else { 
   
@@ -152,6 +156,13 @@ const PortSearch = () => {
         >
           <FontAwesomeIcon icon={faSearch} className="mr-1" /> Search
         </button>
+
+      </div>
+      
+
+      <div className="ml-9">
+      <p>Search results: {returnUrls.length}</p>
+
       </div>
       <div className="mt-4">
         <Port returnUrls={returnUrls} />
