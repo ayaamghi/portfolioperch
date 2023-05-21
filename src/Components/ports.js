@@ -229,6 +229,32 @@ new Portfolio(
     9527,
     2
   ),
+  new Portfolio(
+    'https://drive.google.com/file/d/1_MwV5Mk57-Sg8F-VN_II1jexmwpsDXZH/view?usp=drivesdk',
+    2021,
+    'States',
+    'Control',
+    'Cyborg Cats',
+    11231,
+    3
+  ),
+new Portfolio(
+    'https://docs.google.com/presentation/d/1MCaAQW8Qc8mXM3eL69A3MVt0Dut9Osauz9DXAai9LFk/edit?usp=sharing',
+    2022,
+    'Worlds',
+    'Nothing',
+    'Ohm Raiders',
+    11468
+  ),
+  new Portfolio(
+    'https://drive.google.com/file/d/1b-QhPHkhY3F2cAepsoi5gy0fexqYNjIz/view?usp=sharing',
+    2022,
+    'States',
+    'Inspire',
+    'F.R.O.G Frog Robots of Germany',
+    10183
+  ),
+
 
 ];
 
