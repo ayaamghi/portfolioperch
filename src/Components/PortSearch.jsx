@@ -40,7 +40,11 @@ const Port = ({ returnUrls }) => {
       </div>
     );
   } else if(returnUrls.length == 0) {
-    return <p>No Results</p>;
+    return (
+    <div className="ml-9">
+        <p >No Results</p>
+    </div>
+    )
   }
   else { 
   
@@ -152,6 +156,13 @@ const PortSearch = () => {
         >
           <FontAwesomeIcon icon={faSearch} className="mr-1" /> Search
         </button>
+
+      </div>
+      
+
+      <div className="ml-9">
+      <p>Search results: {returnUrls.length}</p>
+
       </div>
       <div className="mt-4">
         <Port returnUrls={returnUrls} />
