@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FTCPortfolioHelper/static/css/main.ee4f339a.css",
-    "main.js": "/FTCPortfolioHelper/static/js/main.498dcd0a.js",
+    "main.css": "/FTCPortfolioHelper/static/css/main.f20f5a6b.css",
+    "main.js": "/FTCPortfolioHelper/static/js/main.2e1671ca.js",
     "index.html": "/FTCPortfolioHelper/index.html",
-    "main.ee4f339a.css.map": "/FTCPortfolioHelper/static/css/main.ee4f339a.css.map",
-    "main.498dcd0a.js.map": "/FTCPortfolioHelper/static/js/main.498dcd0a.js.map"
+    "main.f20f5a6b.css.map": "/FTCPortfolioHelper/static/css/main.f20f5a6b.css.map",
+    "main.2e1671ca.js.map": "/FTCPortfolioHelper/static/js/main.2e1671ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee4f339a.css",
-    "static/js/main.498dcd0a.js"
+    "static/css/main.f20f5a6b.css",
+    "static/js/main.2e1671ca.js"
   ]
 }
