@@ -187,7 +187,7 @@ new Portfolio(
     3
   ),
 new Portfolio(
-    'https://drive.google.com/file/d/177cB2FamQHjFoaeWrL_0C5OK7uprnnEX/view?usp=drivesdk',
+    'http://bit.ly/3YYyTaM',
     2022,
     'States',
     'Nothing',
@@ -195,7 +195,7 @@ new Portfolio(
     7444
   ),
 new Portfolio(
-    'https://drive.google.com/file/d/1DB74JUKPd0ScI27qLkiUD4wt6oPHyVeN/view?usp=drivesdk',
+    'http://bit.ly/3xPvtv4',
     2022,
     'Regionals',
     'Think',
@@ -204,10 +204,19 @@ new Portfolio(
     2
   ),
 new Portfolio(
-    'https://drive.google.com/file/d/1pFmdzmupxY_W05NrS9Yae1mCfmxHfmMo/view?usp=drivesdk',
+    'http://bit.ly/3YUWGbD',
     2021,
     'States',
     'Connect',
+    'Sisters of the Motherboard',
+    7444,
+    2
+  ),
+  new Portfolio(
+    'http://bit.ly/3ZlEubf',
+    2020,
+    'States',
+    'Motivate',
     'Sisters of the Motherboard',
     7444,
     2
