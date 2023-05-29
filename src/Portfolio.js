@@ -1,5 +1,5 @@
 export class Portfolio { 
-    constructor(url, season, level, highestAward, teamName, teamNumber, awardPlace) { 
+    constructor(url, season, level, highestAward, teamName, teamNumber, awardPlace, region) { 
       this.url = url; 
       this.season = season; 
       this.level = level;
@@ -7,6 +7,7 @@ export class Portfolio {
       this.teamName = teamName; 
       this.teamNumber = teamNumber; 
       this.awardPlace = awardPlace; 
+      this.region = region; 
     }
   
     getUrl() { 
@@ -38,6 +39,9 @@ export class Portfolio {
         else { 
             return ""; 
         }
+    }
+    getRegion() { 
+      return this.region; 
     }
 
 }
