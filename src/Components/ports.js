@@ -1,5 +1,4 @@
-import { Portfolio } from '/Users/ayaam/programming/portfolio_website/src/Portfolio';
-
+import {Portfolio } from "C:\\Users\\ayaam\\programming\\portfolio_website\\src\\Portfolio.js"
 export const Ports = [
   new Portfolio(
     'https://drive.google.com/file/d/1RIqeMGQNa1HSkolQTh63nJqKEshoHX1m/view?usp=drivesdk',
@@ -9,7 +8,7 @@ export const Ports = [
     'Infinite Turtles',
     16461,
     1,
-    "NC"
+    "North Carolina"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1brA_tw_X0d9VkfxGHRFYj3D1xyxWIBYb/view?usp=drivesdk',
@@ -19,7 +18,7 @@ new Portfolio(
     'Infinite Turtles',
     16461,
     1,
-    "NC"
+    "North Carolina"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1ndNOYiYcO-DVGdcAgfF_yG8AG3Cyg1Ib/view',
@@ -28,7 +27,8 @@ new Portfolio(
     'Think',
     'Gears of Fire',
     516,
-    1
+    1,
+    "Florida"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1fIZymkyWdKABecqoFYoQRo9KIoIHjp5c/view',
@@ -37,6 +37,10 @@ new Portfolio(
     'None',
     'Robo_Sapiens',
     19167
+    ,
+    null
+    ,
+    "NY-NYC"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1Yi771Z064j4nmRHnzyWLbK8cb5y6ensc/view',
@@ -45,6 +49,10 @@ new Portfolio(
     'None',
     'Everglow',
     19000
+    ,
+    null
+    ,
+    "Israel"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1WfDzCNLlDfKlr7MRGtF9DvdyR4e8Ad0R/view?usp=drivesdk',
@@ -53,7 +61,8 @@ new Portfolio(
     'Inspire',
     'Electric Quahogs',
     252,
-    3
+    3,
+    "Rhode Island"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1NVSX-fw52xaVx-JpR7spDyQB_UqskaDu/view?usp=drivesdk',
@@ -62,7 +71,8 @@ new Portfolio(
     'Inspire',
     'Electric Quahogs',
     252,
-    3
+    3,
+    "Rhode Island"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1-HaAiXM0J1AhH0iaqDkCEdsq7I6AQRKh/view?usp=drivesdk',
@@ -71,7 +81,8 @@ new Portfolio(
     'Innovate ',
     'Spare Parts',
     288,
-    3
+    3,
+    "Missouri-Kansas"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/14-h9f40ZptAbcCOoDG54iF-iVOVlhjmR/view?usp=drivesdk1',
@@ -80,7 +91,8 @@ new Portfolio(
     'Connect',
     'The GONKa Trucks',
     701,
-    2
+    2,
+    "Rhode Island"
   ),
 new Portfolio(
     'https://docs.google.com/presentation/d/1MCaAQW8Qc8mXM3eL69A3MVt0Dut9Osauz9DXAai9LFk/edit?usp=sharing',
@@ -89,7 +101,8 @@ new Portfolio(
     'Motivate',
     'The GONKa Trucks',
     701,
-    1
+    1,
+    "Rhode Island"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/16Iw5cWNYYq_oDRYcyeHsDcysZiWrKTAm/view?usp=drivesdk',
@@ -98,7 +111,8 @@ new Portfolio(
     'Control',
     'Nonstandard Deviation',
     4052,
-    2
+    2,
+    "Washington"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/15vmlLtDykHxyK1ABqwW7fiPA7K2GL5iq/view?usp=drivesdk',
@@ -107,7 +121,8 @@ new Portfolio(
     'Think',
     'Back To The Drawing Board',
     5795,
-    3
+    3,
+    "North Carolina"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1R_USjgaADCFUBYEUfqwnIQgq-N3RZQwy/view?usp=drivesdk',
@@ -116,7 +131,8 @@ new Portfolio(
     'Motivate',
     'Back To The Drawing Board',
     5795,
-    1
+    1,
+    "North Carolina"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1kvaoFU1gRfysOZINSV9V737n3l0kHktz/view?usp=drivesdk',
@@ -125,7 +141,8 @@ new Portfolio(
     'Inspire',
     'MSET CuttleFish',
     6165,
-    3
+    3,
+    "CA-NorCal"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/167i9QhT1WbwgdPWFQLbsmV28JVUzBm6K/view?usp=drivesdk',
@@ -134,8 +151,8 @@ new Portfolio(
     'Control',
     'The Pink Team',
     6323,
-    1
-    
+    1,
+    "Florida"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/17ts0AyVxj_DJ5dxF3P0RuzLfeDxJVSYh/view?usp=drivesdk',
@@ -143,7 +160,10 @@ new Portfolio(
     'Worlds',
     'Nothing',
     'Team Without a Cool Acronym',
-    16091
+    16091,
+    null,
+
+    "Utah"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1h5iFMbuP40OicQ2uELjTRor8rGCf2HeW/view?usp=drivesdk',
@@ -152,7 +172,8 @@ new Portfolio(
     'Innovate',
     'Project Peacock',
     10355,
-    1
+    1,
+    "Oklahoma"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/117ZIUZI7fnEdhR3qKvqq0aQ7jGsUtIQG/view?usp=drivesdk',
@@ -160,7 +181,11 @@ new Portfolio(
     'States',
     'Nothing',
     'Night Owls',
-    10195
+    
+    null
+    ,
+    10195,
+    "North Carolina"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1JKHxy37gIhD0CQL5paDs8IX7Z7r6RIlP/view?usp=drivesdk',
@@ -169,7 +194,8 @@ new Portfolio(
     'Inspire',
     'T.H.O.R.',
     9974,
-    3
+    3,
+    "Iowa"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1pgTptjwJnBg0MiexpHs5V5IcSn2bZjgt/view?usp=drivesdk',
@@ -177,7 +203,10 @@ new Portfolio(
     'States',
     'Nothing',
     'Firefly',
-    9064
+    9064,
+    null,
+
+    "CHS-VA"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1_0VUCkLtn108l9S93MqGk-cOaVoc6QRE/view?usp=drivesdk',
@@ -186,7 +215,8 @@ new Portfolio(
     'Design',
     'Pi Rho Eagles',
     8300,
-    3
+    3,
+    "North Carolina"
   ),
 new Portfolio(
     'http://bit.ly/3YYyTaM',
@@ -194,7 +224,10 @@ new Portfolio(
     'States',
     'Nothing',
     'Sisters of the Motherboard',
-    7444
+    7444,   
+     null,
+
+    "North Carolina"
   ),
 new Portfolio(
     'http://bit.ly/3xPvtv4',
@@ -203,7 +236,8 @@ new Portfolio(
     'Think',
     'Sisters of the Motherboard',
     7444,
-    2
+    2,
+    "North Carolina"
   ),
 new Portfolio(
     'http://bit.ly/3YUWGbD',
@@ -212,7 +246,8 @@ new Portfolio(
     'Connect',
     'Sisters of the Motherboard',
     7444,
-    2
+    2,
+    "North Carolina"
   ),
   new Portfolio(
     'http://bit.ly/3ZlEubf',
@@ -221,7 +256,8 @@ new Portfolio(
     'Motivate',
     'Sisters of the Motherboard',
     7444,
-    2
+    2,
+    "North Carolina"
   ),
   new Portfolio(
     'https://drive.google.com/file/d/1-r9mZwOO1HIt6Ndc0k2N-uYRQX2UHigL/view?usp=drivesdk',
@@ -229,7 +265,9 @@ new Portfolio(
     'Worlds',
     'Nothing',
     'F.R.O.G Frog Robots of Germany',
-    10183
+    10183,
+    null,
+    "Germany"
   ),
   new Portfolio(
     'https://drive.google.com/file/d/1fiwITpKo_KmZZfB2SmLo-TIDy-YwZy2P/view?usp=drivesdk',
@@ -238,7 +276,8 @@ new Portfolio(
     'Control',
     'Rogue Resistance',
     9527,
-    2
+    2,
+    "TX-Central"
   ),
   new Portfolio(
     'https://drive.google.com/file/d/1_MwV5Mk57-Sg8F-VN_II1jexmwpsDXZH/view?usp=drivesdk',
@@ -247,15 +286,18 @@ new Portfolio(
     'Control',
     'Cyborg Cats',
     11231,
-    3
+    3,
+    "Michigan"
   ),
 new Portfolio(
-    'https://docs.google.com/presentation/d/1MCaAQW8Qc8mXM3eL69A3MVt0Dut9Osauz9DXAai9LFk/edit?usp=sharing',
+    'https://docs.google.com/presentation/d/1MCaAQW8Qc8mXM3eL69A3MVt0Dut9Osauz9DXAai9LFk/edit?usp=sharing', //wrong notebook?
     2022,
     'Worlds',
     'Nothing',
     'Ohm Raiders',
-    11468
+    11468,
+    null,
+    "Tennessee"
   ),
   new Portfolio(
     'https://drive.google.com/file/d/1b-QhPHkhY3F2cAepsoi5gy0fexqYNjIz/view?usp=sharing',
@@ -263,7 +305,11 @@ new Portfolio(
     'States',
     'Inspire',
     'F.R.O.G Frog Robots of Germany',
-    10183
+    10183,
+    1,
+  
+    "Germany",
+    
   ),
   new Portfolio(
     'https://drive.google.com/file/d/1onpbkosXNcnfFxWATdUtVkOSmejNngTk/view?usp=drivesdk',
@@ -272,7 +318,8 @@ new Portfolio(
     'Inspire',
     'Not Not Nerds',
     12051,
-    1
+    1,
+    "Illinois"
   ),
   new Portfolio(
     'https://drive.google.com/file/d/1UIDdnHA5j_3jQmccV3sCNq3JVIJ85DbT/view',
@@ -281,7 +328,8 @@ new Portfolio(
     'Design',
     'Steel Eels',
     18317,
-    1
+    1,
+    "Florida"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/12KrEJjJNQc_Ykhdz7DTcYNwzYoU-2nYm/view?usp=sharing',
@@ -290,7 +338,8 @@ new Portfolio(
     'Motivate',
     'Steel Eels',
     18317,
-    2
+    2,
+    "Florida"
   ),
   new Portfolio(
     'https://drive.google.com/file/d/1Wp1bVx_sul5kFPuTSWvAokERMF-8pbN4/view?usp=drivesdk',
@@ -299,10 +348,9 @@ new Portfolio(
     'Inspire',
     'Browncoats',
     7842,
-    3
+    3,
+    "Alabama"
   ),
 
 
 ];
-
-console.log(Ports.length)
