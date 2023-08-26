@@ -49,7 +49,7 @@ const Searchbar = ({returnUrls, setReturnUrls}) => {
   const handleLevelFilterChange = (e) => {
     setLevelFilter(e.target.value);
 
-    if (e.target.value !== 'States' && e.target.value !== 'Regionals') {
+    if (e.target.value !== 'Regionals' && e.target.value !== 'Qualifiers') {
       setRegionFilter(''); // Reset region filter if level is changed to a different option
     }
   };
@@ -125,11 +125,11 @@ const isOptionDisabled = (optionValue) => {
             <option disabled={isOptionDisabled('Any')} value="">Select a level </option>
             <option value="Any">Any</option>
             <option value="Worlds">Worlds</option>
-            <option value="States">States</option>
             <option value="Regionals">Regionals</option>
+            <option value="Qualifiers">Qualifiers</option>
           </select>
         </div>
-        {levelFilter === 'States' || levelFilter === 'Regionals' ? (
+        {levelFilter === 'Regionals' || levelFilter === 'Qualifiers' ? (
           <div className="mr-2">
             <Select
               className="w-64 mt-4"

@@ -3,7 +3,7 @@ export const Ports = [
   new Portfolio(
     'https://drive.google.com/file/d/1RIqeMGQNa1HSkolQTh63nJqKEshoHX1m/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Inspire',
     'Infinite Turtles',
     16461,
@@ -23,7 +23,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1ndNOYiYcO-DVGdcAgfF_yG8AG3Cyg1Ib/view',
     2020,
-    'States',
+    'Regionals',
     'Think',
     'Gears of Fire',
     516,
@@ -33,7 +33,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1fIZymkyWdKABecqoFYoQRo9KIoIHjp5c/view',
     2022,
-    'Regionals',
+    'Qualifiers',
     'None',
     'Robo_Sapiens',
     19167
@@ -45,7 +45,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1Yi771Z064j4nmRHnzyWLbK8cb5y6ensc/view',
     2022,
-    'States',
+    'Regionals',
     'None',
     'Everglow',
     19000
@@ -57,7 +57,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1WfDzCNLlDfKlr7MRGtF9DvdyR4e8Ad0R/view?usp=drivesdk',
     2020,
-    'States',
+    'Regionals',
     'Inspire',
     'Electric Quahogs',
     252,
@@ -67,7 +67,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1NVSX-fw52xaVx-JpR7spDyQB_UqskaDu/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Inspire',
     'Electric Quahogs',
     252,
@@ -77,7 +77,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1-HaAiXM0J1AhH0iaqDkCEdsq7I6AQRKh/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Innovate ',
     'Spare Parts',
     288,
@@ -85,9 +85,9 @@ new Portfolio(
     "Missouri-Kansas"
   ),
 new Portfolio(
-    'https://drive.google.com/file/d/14-h9f40ZptAbcCOoDG54iF-iVOVlhjmR/view?usp=drivesdk1',
+    'https://drive.google.com/file/d/14-h9f40ZptAbcCOoDG54iF-iVOVlhjmR/view?usp=drive_link',
      2021,
-    'States',
+    'Regionals',
     'Connect',
     'The GONKa Trucks',
     701,
@@ -97,7 +97,7 @@ new Portfolio(
 new Portfolio(
     'https://docs.google.com/presentation/d/1MCaAQW8Qc8mXM3eL69A3MVt0Dut9Osauz9DXAai9LFk/edit?usp=sharing',
     2022,
-    'States',
+    'Regionals',
     'Motivate',
     'The GONKa Trucks',
     701,
@@ -107,17 +107,17 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/16Iw5cWNYYq_oDRYcyeHsDcysZiWrKTAm/view?usp=drivesdk',
     2021,
-    'Regionals',
+    'Qualifiers',
     'Control',
     'Nonstandard Deviation',
-    4052,
+    4042,
     2,
     "Washington"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/15vmlLtDykHxyK1ABqwW7fiPA7K2GL5iq/view?usp=drivesdk',
     2020,
-    'States',
+    'Regionals',
     'Think',
     'Back To The Drawing Board',
     5795,
@@ -127,7 +127,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1R_USjgaADCFUBYEUfqwnIQgq-N3RZQwy/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Motivate',
     'Back To The Drawing Board',
     5795,
@@ -147,7 +147,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/167i9QhT1WbwgdPWFQLbsmV28JVUzBm6K/view?usp=drivesdk',
     2020,
-    'States',
+    'Regionals',
     'Control',
     'The Pink Team',
     6323,
@@ -168,7 +168,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1h5iFMbuP40OicQ2uELjTRor8rGCf2HeW/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Innovate',
     'Project Peacock',
     10355,
@@ -178,19 +178,18 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/117ZIUZI7fnEdhR3qKvqq0aQ7jGsUtIQG/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Nothing',
     'Night Owls',
-    
-    null
+    10195
     ,
-    10195,
+    null,
     "North Carolina"
   ),
 new Portfolio(
     'https://drive.google.com/file/d/1JKHxy37gIhD0CQL5paDs8IX7Z7r6RIlP/view?usp=drivesdk',
     2020,
-    'States',
+    'Regionals',
     'Inspire',
     'T.H.O.R.',
     9974,
@@ -200,7 +199,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1pgTptjwJnBg0MiexpHs5V5IcSn2bZjgt/view?usp=drivesdk',
     2022,
-    'States',
+    'Regionals',
     'Nothing',
     'Firefly',
     9064,
@@ -211,7 +210,7 @@ new Portfolio(
 new Portfolio(
     'https://drive.google.com/file/d/1_0VUCkLtn108l9S93MqGk-cOaVoc6QRE/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Design',
     'Pi Rho Eagles',
     8300,
@@ -221,7 +220,7 @@ new Portfolio(
 new Portfolio(
     'http://bit.ly/3YYyTaM',
     2022,
-    'States',
+    'Regionals',
     'Nothing',
     'Sisters of the Motherboard',
     7444,   
@@ -232,7 +231,7 @@ new Portfolio(
 new Portfolio(
     'http://bit.ly/3xPvtv4',
     2022,
-    'Regionals',
+    'Qualifiers',
     'Think',
     'Sisters of the Motherboard',
     7444,
@@ -242,7 +241,7 @@ new Portfolio(
 new Portfolio(
     'http://bit.ly/3YUWGbD',
     2021,
-    'States',
+    'Regionals',
     'Connect',
     'Sisters of the Motherboard',
     7444,
@@ -252,7 +251,7 @@ new Portfolio(
   new Portfolio(
     'http://bit.ly/3ZlEubf',
     2020,
-    'States',
+    'Regionals',
     'Motivate',
     'Sisters of the Motherboard',
     7444,
@@ -272,7 +271,7 @@ new Portfolio(
   new Portfolio(
     'https://drive.google.com/file/d/1fiwITpKo_KmZZfB2SmLo-TIDy-YwZy2P/view?usp=drivesdk',
     2020,
-    'Regionals',
+    'Qualifiers',
     'Control',
     'Rogue Resistance',
     9527,
@@ -282,7 +281,7 @@ new Portfolio(
   new Portfolio(
     'https://drive.google.com/file/d/1_MwV5Mk57-Sg8F-VN_II1jexmwpsDXZH/view?usp=drivesdk',
     2021,
-    'States',
+    'Regionals',
     'Control',
     'Cyborg Cats',
     11231,
@@ -290,7 +289,7 @@ new Portfolio(
     "Michigan"
   ),
 new Portfolio(
-    'https://docs.google.com/presentation/d/1MCaAQW8Qc8mXM3eL69A3MVt0Dut9Osauz9DXAai9LFk/edit?usp=sharing', //wrong notebook?
+    'https://drive.google.com/file/d/1fclGCD-nzzeo1QBWZjfymR4SwMl97e7N/view?usp=drive_link', //wrong notebook?
     2022,
     'Worlds',
     'Nothing',
@@ -302,7 +301,7 @@ new Portfolio(
   new Portfolio(
     'https://drive.google.com/file/d/1b-QhPHkhY3F2cAepsoi5gy0fexqYNjIz/view?usp=sharing',
     2022,
-    'States',
+    'Regionals',
     'Inspire',
     'F.R.O.G Frog Robots of Germany',
     10183,
@@ -314,7 +313,7 @@ new Portfolio(
   new Portfolio(
     'https://drive.google.com/file/d/1onpbkosXNcnfFxWATdUtVkOSmejNngTk/view?usp=drivesdk',
     2022,
-    'Regionals',
+    'Qualifiers',
     'Inspire',
     'Not Not Nerds',
     12051,
@@ -324,7 +323,7 @@ new Portfolio(
   new Portfolio(
     'https://drive.google.com/file/d/1UIDdnHA5j_3jQmccV3sCNq3JVIJ85DbT/view',
     2021,
-    'States',
+    'Regionals',
     'Design',
     'Steel Eels',
     18317,
@@ -344,7 +343,7 @@ new Portfolio(
   new Portfolio(
     'https://drive.google.com/file/d/1Wp1bVx_sul5kFPuTSWvAokERMF-8pbN4/view?usp=drivesdk',
     2020,
-    'States',
+    'Regionals',
     'Inspire',
     'Browncoats',
     7842,
